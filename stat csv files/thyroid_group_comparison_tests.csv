@@ -1,0 +1,6 @@
+Feature,Test,Statistic,p-value,Significant (p<0.05),Effect Size (Cohen's d),Effect Magnitude
+Age,Mann-Whitney U test,4038060852.5,0.9578612884682219,False,0.0002727857311993934,Small
+TSH_Level,Mann-Whitney U test,4053417432.5,0.21847123707579397,False,0.006315585747950225,Small
+T3_Level,Mann-Whitney U test,4051890053.5,0.27004573645581154,False,0.005652072917264155,Small
+T4_Level,Mann-Whitney U test,4031981835.5,0.5748718075926884,False,0.002875813282318084,Small
+Nodule_Size,Mann-Whitney U test,4053365126.5,0.22011073857053487,False,0.006288703781157634,Small

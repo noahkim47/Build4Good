@@ -1,0 +1,6 @@
+Feature,Point-biserial r,p-value,Significant (p<0.05),Correlation Strength,Direction
+TSH_Level,-0.002669820619754085,0.21822024145464702,False,Weak,Negative
+Nodule_Size,-0.0026575586974202426,0.22034192334918107,False,Weak,Negative
+T3_Level,-0.002387953022338584,0.2707740959145972,False,Weak,Negative
+T4_Level,0.0012155208259016187,0.5750865561056754,False,Weak,Positive
+Age,0.00011521356381000486,0.9576248389726297,False,Weak,Positive
